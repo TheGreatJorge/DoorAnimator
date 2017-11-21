@@ -1,0 +1,25 @@
+#include "Base\DoorAnimatorBase.dm"
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "Base\CommonDoor.dm"
+#include "Base\DoorAnimatorBase.dm"
+#include "Base\DoubleDoor.dm"
+#include "Base\ExternalDoor.dm"
+#include "Base\FireDoor.dm"
+#include "Base\HatchDoor.dm"
+#include "Base\HazardDoor.dm"
+#include "Base\HighSecDoor.dm"
+#include "Base\IndustrialDoor.dm"
+#include "Base\SACDoor.dm"
+#include "Base\SecureDoor.dm"
+#include "Base\SimpleDoors.dm"
+#include "Base\VaultDoor.dm"
+#include "Base\Previews.dmm"
+// END_INCLUDE
